@@ -1,1 +1,1 @@
-# this is my local repo
+# this is a demo for git &amp; github class
